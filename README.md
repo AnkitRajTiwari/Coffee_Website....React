@@ -31,11 +31,16 @@ This project provides a sleek, performant online coffee shop experience. The cor
 
 ## Getting Started
 
+## Built with the tools and technologies:
+
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)  ![npm](https://img.shields.io/badge/Npm-CC3534?style=for-the-badge&logo=npm&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=Javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) 
+
+
 ### Prerequisites
 
 This project requires the following dependencies:
 
-- **Programming Language:** JavaScript
+- **Programming Language:** React
 - **Package Manager:** Npm
 
 ### Installation
