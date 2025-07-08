@@ -1,4 +1,4 @@
-# ☕ Brew Heaven
+# ☕ Brew Haven
 Ignite Coffee Passion with Seamless Digital Experience
 
 ---
